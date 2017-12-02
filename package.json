@@ -1,0 +1,10 @@
+{
+  "name": "testwebsite",
+  "version": "0.0.1",
+  "description": "my test website",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Cameron Bailey"
+}
