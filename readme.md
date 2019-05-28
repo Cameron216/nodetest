@@ -4,5 +4,5 @@ Setting up a workflow that can be used accross multiple projects.
 
 Using Gulp.js
 
-## Coffeescript has been added
+Coffeescript has been added
 
